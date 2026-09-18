@@ -1,0 +1,18 @@
+# ---- generated at runtime by the installer ----
+scripts/*.lnk
+scripts/Install-Log.txt
+scripts/dsh-icon-*.ico
+
+# ---- OS / editor noise ----
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+*~
+
+# ---- note on licensing ----
+# This repository is intentionally NOT MIT-only. The whale-girl artwork under
+# scripts/ is third-party material licensed CC BY-NC-SA 4.0 (attribution,
+# non-commercial, share-alike) and is distributed here on purpose.
+# See ICON-CREDITS.md for the attribution chain and LICENSE for the split
+# between MIT (our scripts) and CC BY-NC-SA 4.0 (the artwork).
